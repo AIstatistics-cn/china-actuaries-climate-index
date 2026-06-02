@@ -1,0 +1,220 @@
+station_id,USAF,STATION NAME,CTRY,ICAO,lat,lon,elev_m,province,province_source,region,grid_id,grid_lat,grid_lon,active_station_months
+599850-99999,599850,SANHU DAO,CH,,16.533,111.617,5.0,Unmapped,unmapped,South,16.25_111.25,16.25,111.25,535
+599810-99999,599810,XISHA DAO,CH,,16.833,112.333,5.0,Unmapped,unmapped,South,16.25_111.25,16.25,111.25,535
+589740-99999,589740,PENGJIA YU,CH,,25.633,122.067,102.0,Unmapped,unmapped,South,26.25_121.25,26.25,121.25,532
+597920-99999,597920,DONGSHA DAO,CH,,20.667,116.717,6.0,Unmapped,unmapped,South,21.25_116.25,21.25,116.25,516
+599970-99999,599970,NANSHA DAO,CH,,10.383,114.367,5.0,Unmapped,unmapped,South,11.25_113.75,11.25,113.75,374
+545870-99999,545870,HAIYANG DAO,CH,,39.05,123.217,-999.9,Unmapped,unmapped,North,38.75_123.75,38.75,123.75,290
+588530-99999,588530,TAISHAN,CH,,27.0,120.7,107.0,Unmapped,unmapped,South,26.25_121.25,26.25,121.25,144
+587650-99999,587650,NANJI SHAN,CH,,27.467,121.05,2.0,Unmapped,unmapped,South,26.25_121.25,26.25,121.25,137
+599950-99999,599950,YONGSHUJIAO,CH,,9.533,112.883,6.0,Unmapped,unmapped,South,8.75_113.75,8.75,113.75,133
+593450-99999,593450,MAGONG,CH,,23.517,119.567,22.0,Unmapped,unmapped,South,23.75_118.75,23.75,118.75,103
+546460-99999,546460,MOORED VESSEL,CH,,38.35,119.683,6.0,Unmapped,unmapped,North,38.75_118.75,38.75,118.75,84
+546430-99999,546430,MOORED VESSEL,CH,,38.967,119.95,6.0,Unmapped,unmapped,North,38.75_118.75,38.75,118.75,44
+546800-99999,546800,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,35
+548680-99999,548680,QIAN-LI ISLAND,CH,,36.267,121.383,18.0,Unmapped,unmapped,North,36.25_121.25,36.25,121.25,32
+589450-99999,589450,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,31
+597520-99999,597520,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,24
+546350-99999,546350,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,21
+587640-99999,587640,DONG-GUA ISLAND,CH,,27.633,121.05,18.0,Unmapped,unmapped,South,28.75_121.25,28.75,121.25,17
+547900-99999,547900,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,13
+578230-99999,578230,DAO-PING (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+570680-99999,570680,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+578130-99999,578130,YANG-CHANG (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+577260-99999,577260,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+577250-99999,577250,,,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+579830-99999,579830,NAME UNKNOWN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+578470-99999,578470,,,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+579010-99999,579010,HUA-GONG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+579580-99999,579580,NAME UNKNOWN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+577060-99999,577060,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+580830-99999,580830,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+581930-99999,581930,NAME/LOCATION UNKN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+582110-99999,582110,YING-SHANG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+582310-99999,582310,JIA-SHAN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+582660-99999,582660,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+577150-99999,577150,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+576760-99999,576760,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+576770-99999,576770,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+572070-99999,572070,YAN-MEN-BA (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+572210-99999,572210,YU-SHU-MTHO (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+572550-99999,572550,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+573270-99999,573270,YONG-XING,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+573470-99999,573470,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+573650-99999,573650,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+573790-99999,573790,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+574060-99999,574060,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+574240-99999,574240,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+574280-99999,574280,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+574570-99999,574570,GUAN-DIAN-GOU (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+574660-99999,574660,JIANG-KOU (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+574720-99999,574720,SHA-YANG (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+574780-99999,574780,YANG-JIA-CHANG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+575270-99999,575270,NAN-CHUAN (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+575690-99999,575690,CHANG-DE (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+575940-99999,575940,CHONG-YANG (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+575970-99999,575970,MA-AO (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+575990-99999,575990,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+576070-99999,576070,DA-BA,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+576320-99999,576320,CHANG-PU-QI,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+576450-99999,576450,HUA-YUAN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+576650-99999,576650,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+576720-99999,576720,YUAN-JIANG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+576530-99999,576530,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+583680-99999,583680,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+582670-99999,582670,RU-DONG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+594720-99999,594720,MING-CHENG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+590860-99999,590860,XIN-JIANG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+592020-99999,592020,XI-YANG (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+592030-99999,592030,ZHE-SHANG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+592170-99999,592170,RONG-LAO-XIANG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+592340-99999,592340,QIAO-LI,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+592450-99999,592450,WU-XUAN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+592580-99999,592580,LIU-CHEN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+592770-99999,592770,LU-BU,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+592830-99999,592830,LIANG-KOU (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+593260-99999,593260,XIONG-DI ISLAND,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+596220-99999,596220,DONG-JIAO (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+583240-99999,583240,SHAN-HE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+596330-99999,596330,BAI-MU,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+596460-99999,596460,SHAN-KOU (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+596480-99999,596480,FOU-TOU,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+596570-99999,596570,ZHAN-JIANG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+596830-99999,596830,BEI-JIAN ISLAND,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+597380-99999,597380,DAO-BACH-LONG ISLAN,CH,,20.133,107.733,58.0,Unmapped,unmapped,South,21.25_108.75,21.25,108.75,0
+597450-99999,597450,XI-CUN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+597480-99999,597480,LIN-GAO (CAPE),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+597550-99999,597550,CHIN HO (CHIN NANG),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+599380-99999,599380,HUANG-LIU,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+590850-99999,590850,WU-SHI (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+590830-99999,590830,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+590770-99999,590770,XIA-SHUI-XU,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+590760-99999,590760,NAME UNKNOWN (ONC),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+583250-99999,583250,SHENG-JIA-QIAO,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+583280-99999,583280,HUANG GU-JIA,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+583570-99999,583570,WA LI,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+569890-99999,569890,HE-KOU,CH,,22.5,103.95,1363.0,Unmapped,unmapped,Southwest,23.75_103.75,23.75,103.75,0
+584140-99999,584140,TAI-HU,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+584380-99999,584380,JING-DE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+584470-99999,584470,HE-QIAO,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+584760-99999,584760,LANG-GANG ISLAND,CH,,30.433,122.917,95.0,Unmapped,unmapped,East,31.25_123.75,31.25,123.75,0
+584780-99999,584780,ZHI-ZHI ISLAND,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+585320-99999,585320,SHE-XIAN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+586550-99999,586550,YONG-LIN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+587530-99999,587530,RUI-AN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+587600-99999,587600,,,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+588380-99999,588380,SHUANG-KENG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+588540-99999,588540,XI-YANG ISLAND,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+588640-99999,588640,TUNG-YIN ISLAND,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+588930-99999,588930,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+589840-99999,589840,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+590080-99999,590080,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+590130-99999,590130,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+590620-99999,590620,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+570050-99999,570050,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+507030-99999,507030,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+569880-99999,569880,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+540680-99999,540680,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+528460-99999,528460,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+528570-99999,528570,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+528640-99999,528640,HUANG-YUAN (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+530670-99999,530670,ENGER HULASA,MG,,44.167,111.167,1086.0,Unmapped,unmapped,North,43.75_111.25,43.75,111.25,0
+530730-99999,530730,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+530780-99999,530780,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+532860-99999,532860,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+533230-99999,533230,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+533310-99999,533310,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+533760-99999,533760,BA-DAO-GOU (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+534360-99999,534360,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+534730-99999,534730,CHI PI PU LANG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+534770-99999,534770,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+535630-99999,535630,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+535870-99999,535870,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+536240-99999,536240,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+537130-99999,537130,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+537140-99999,537140,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+538180-99999,538180,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+538230-99999,538230,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+539130-99999,539130,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+540160-99999,540160,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+540170-99999,540170,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+528260-99999,528260,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+527820-99999,527820,NAME/LOCATION UNKN,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+527760-99999,527760,GU-LANG (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+523670-99999,523670,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+509880-99999,509880,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+510860-99999,510860,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+511160-99999,511160,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+512940-99999,512940,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+515570-99999,515570,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+517080-99999,517080,AK-TO,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+517780-99999,517780,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+517860-99999,517860,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+522610-99999,522610,,,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+523030-99999,523030,YA-MAN-SU,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+523770-99999,523770,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+527660-99999,527660,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+524310-99999,524310,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+524320-99999,524320,,,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+525430-99999,525430,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+526710-99999,526710,SALT LAKE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+526820-99999,526820,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+526850-99999,526850,,,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+526980-99999,526980,GOLMUD NW,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+527230-99999,527230,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+527360-99999,527360,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+527380-99999,527380,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+540280-99999,540280,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+540740-99999,540740,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+569790-99999,569790,JIE-JIE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+541250-99999,541250,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+560570-99999,560570,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+560690-99999,560690,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+560700-99999,560700,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+560860-99999,560860,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+560890-99999,560890,BAI-GU-SI,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+560900-99999,560900,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+561260-99999,561260,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+561270-99999,561270,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+561380-99999,561380,QING-NI-DONG (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+561560-99999,561560,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+561570-99999,561570,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+561940-99999,561940,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+562370-99999,562370,BANG-DA,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+562950-99999,562950,CHIEN YANG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+563470-99999,563470,ZEN-YAN (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+563750-99999,563750,HAN-YUAN-JIE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+564720-99999,564720,GAN-LUO,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+565610-99999,565610,DA-CUN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+565620-99999,565620,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+565770-99999,565770,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+565810-99999,565810,TIAN-DI-BA,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+508450-99999,508450,NAME/LOCATION UNKN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+569160-99999,569160,NAME/LOCATION UNKN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+560440-99999,560440,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+560420-99999,560420,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+560360-99999,560360,CANG-DUO (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+547730-99999,547730,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+541580-99999,541580,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+543430-99999,543430,FU-SHUN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+543780-99999,543780,CHING-ZHI (?),CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+545170-99999,545170,TS AN KANG,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+545430-99999,545430,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+545640-99999,545640,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+546250-99999,546250,QI-KOU,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+546530-99999,546530,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+547430-99999,547430,NAME UNKNOWN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+547720-99999,547720,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+548970-99999,548970,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+560280-99999,560280,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+549460-99999,549460,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+549480-99999,549480,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+551700-99999,551700,,,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+552700-99999,552700,,,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+558210-99999,558210,BOGUS CHINESE,CH,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+559850-99999,559850,,,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+559910-99999,559910,,,,,,,Unmapped,unmapped,Unmapped,nan_nan,,,0
+560190-99999,560190,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+560230-99999,560230,NAME/LOCATION UNKN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+560260-99999,560260,BOGUS CHINESE,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0
+569150-99999,569150,NAME/LOCATION UNKN,CH,,0.0,0.0,-999.0,Unmapped,unmapped,Southwest,1.25_1.25,1.25,1.25,0

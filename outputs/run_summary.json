@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-06-02T00:52:58+08:00",
+  "start_year": 1981,
+  "end_year": 2025,
+  "baseline_start": 1981,
+  "baseline_end": 2010,
+  "index_min_components": 3,
+  "monthly_rows": 22471,
+  "seasonal_rows": 7435,
+  "latest_china_month": {
+    "year": 2025,
+    "month": 8,
+    "CACI": 2.8525103529389018,
+    "component_count": 4
+  },
+  "latest_china_season": {
+    "season_year": 2025,
+    "season": "Summer",
+    "CACI": 2.7785266489594216,
+    "component_count": 4
+  }
+}
